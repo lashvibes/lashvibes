@@ -1408,7 +1408,7 @@ textarea {
 }
 
 a {
-    color: #337ab7;
+    color: #090000;
     text-decoration: none
 }
 
@@ -1510,7 +1510,7 @@ h6 {
     font-family: inherit;
     font-weight: 500;
     line-height: 1.1;
-    color: inherit
+    color: white
 }
 
 .h1 .small,
@@ -1733,7 +1733,7 @@ a.text-danger:hover {
 
 .bg-primary {
     color: #fff;
-    background-color: #337ab7
+    background-color: #0e0e0e
 }
 
 a.bg-primary:focus,
